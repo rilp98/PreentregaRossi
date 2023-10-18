@@ -1,0 +1,23 @@
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+}
+
+.image-container img {
+  width: 150px;
+}
+
+.options-container {
+  display: flex;
+  gap: 3rem;
+}
+
+ul {
+  color: black;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
